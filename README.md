@@ -1,2 +1,2 @@
-# furahalee.github.io
+# furahalee
 portfolio page
